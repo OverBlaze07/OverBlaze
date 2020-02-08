@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.ATPP.Settings">
+		<mindSkyCloudMigrationHours>3</mindSkyCloudMigrationHours>
+		<mindUploadHour>4</mindUploadHour>
+		<mindReplicationHours>4</mindReplicationHours>
+		<mindUploadToSkyCloudHours>4</mindUploadToSkyCloudHours>
+		<defaultGeneratorMode>2</defaultGeneratorMode>
+		<percentageNanitesFail>0.0799999982</percentageNanitesFail>
+		<percentageOfBatteryChargedEach6Sec>0.0500000007</percentageOfBatteryChargedEach6Sec>
+		<nbHoursMaxServerRunningHotBeforeExplode>12</nbHoursMaxServerRunningHotBeforeExplode>
+		<nbHoursMinServerRunningHotBeforeExplode>4</nbHoursMinServerRunningHotBeforeExplode>
+		<nbHoursMaxSkyCloudServerRunningHotBeforeExplode>24</nbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+		<nbHoursMinSkyCloudServerRunningHotBeforeExplode>8</nbHoursMinSkyCloudServerRunningHotBeforeExplode>
+		<riskSecurisedSecuritySystemGetVirus>0.25</riskSecurisedSecuritySystemGetVirus>
+		<riskCryptolockerScam>0.25</riskCryptolockerScam>
+		<riskRansomwareScam>0.25</riskRansomwareScam>
+		<percentageOfSurrogateInAnotherFactionGroup>0.187032402</percentageOfSurrogateInAnotherFactionGroup>
+		<percentageOfSurrogateInAnotherFactionGroupMin>0.100000001</percentageOfSurrogateInAnotherFactionGroupMin>
+		<costPlayerHack>1200</costPlayerHack>
+		<chanceGeneratedAndroidCanBePaintedOrRust>0.449999988</chanceGeneratedAndroidCanBePaintedOrRust>
+		<percentageChanceMaleAndroidModel>0.5</percentageChanceMaleAndroidModel>
+	</ModSettings>
+</SettingsBlock>

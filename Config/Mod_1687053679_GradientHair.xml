@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GradientHair.GradientHairModSettings">
+		<chanceMale>0.2038369</chanceMale>
+		<chanceFemale>0.8033573</chanceFemale>
+	</ModSettings>
+</SettingsBlock>

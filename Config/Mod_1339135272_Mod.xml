@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TD_Enhancement_Pack.Settings">
+		<dodgeGrenadeEnemy>False</dodgeGrenadeEnemy>
+		<dodgeGrenadeUnlessBelt>False</dodgeGrenadeUnlessBelt>
+		<showOverlayBuildable>False</showOverlayBuildable>
+		<showOverlayCoverage>False</showOverlayCoverage>
+		<showOverlayPlantHarvest>False</showOverlayPlantHarvest>
+		<autoOverlayLighting>False</autoOverlayLighting>
+		<showOverlayFertility>False</showOverlayFertility>
+		<showOverlayWalkSpeed>False</showOverlayWalkSpeed>
+		<showOverlayLighting>False</showOverlayLighting>
+		<showOverlayPower>False</showOverlayPower>
+		<overlayOpacity>1</overlayOpacity>
+		<afterTraderSpeed>2</afterTraderSpeed>
+		<zoneRefill>False</zoneRefill>
+		<autoRebuildTransportPod>True</autoRebuildTransportPod>
+		<caravanLoadSelection>False</caravanLoadSelection>
+		<alertDeteriorating>False</alertDeteriorating>
+		<alertToxic>False</alertToxic>
+		<alertNoBill>False</alertNoBill>
+		<showToggleLearning>False</showToggleLearning>
+		<showToggleZone>False</showToggleZone>
+		<showToggleColonists>False</showToggleColonists>
+		<showToggleHomeArea>False</showToggleHomeArea>
+		<showToggleRebuild>False</showToggleRebuild>
+		<showToggleCategorized>False</showToggleCategorized>
+		<colorGenChance>0.5</colorGenChance>
+	</ModSettings>
+</SettingsBlock>

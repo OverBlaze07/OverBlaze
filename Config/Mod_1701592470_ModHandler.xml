@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LevelUp.Settings">
+		<AllowLevelUpTextMessage>True</AllowLevelUpTextMessage>
+		<AllowLevelUpLetter>False</AllowLevelUpLetter>
+		<AllowLevelUpSoundEffect>True</AllowLevelUpSoundEffect>
+		<AllowLevelUpAnimation>True</AllowLevelUpAnimation>
+		<LevelDescLevelUpLabel>False</LevelDescLevelUpLabel>
+		<AllowLevelDownTextMessage>False</AllowLevelDownTextMessage>
+		<AllowLevelDownLetter>False</AllowLevelDownLetter>
+		<AllowLevelDownSoundEffect>False</AllowLevelDownSoundEffect>
+		<AllowLevelDownAnimation>False</AllowLevelDownAnimation>
+		<LevelDescLevelDownLabel>False</LevelDescLevelDownLabel>
+		<Ignore10To9Label>False</Ignore10To9Label>
+		<LevelUpSoundDef>LevelUp</LevelUpSoundDef>
+	</ModSettings>
+</SettingsBlock>

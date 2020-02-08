@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PreemptiveStrike.Mod.PES_Settings">
+		<DetectionCoefficient>1</DetectionCoefficient>
+		<MessageRecieveOffset>0</MessageRecieveOffset>
+		<BasePersuadeChance_Friendly>0.300000012</BasePersuadeChance_Friendly>
+		<BasePersuadeChance_Hostile>0.100000001</BasePersuadeChance_Hostile>
+		<BaseIntimidationFrightenChance_Friendly>0.209999993</BaseIntimidationFrightenChance_Friendly>
+		<BaseIntimidationContactChance_Friendly>0.449999988</BaseIntimidationContactChance_Friendly>
+		<BaseIntimidationFrightenChance_Hostile>0.109999999</BaseIntimidationFrightenChance_Hostile>
+		<BaseIntimidationContactChance_Hostile>0.400000006</BaseIntimidationContactChance_Hostile>
+		<BaseBeguilementFrightenChance_Friendly>0.899999976</BaseBeguilementFrightenChance_Friendly>
+		<BaseBeguilementFrightenChance_Hostile>0.25</BaseBeguilementFrightenChance_Hostile>
+		<BaseBeguilementContactChance_Hostile>0.25</BaseBeguilementContactChance_Hostile>
+		<BaseDelayPersuasionChance>0.200000003</BaseDelayPersuasionChance>
+		<BaseDelayIntimidationSuccessChance>0.300000012</BaseDelayIntimidationSuccessChance>
+		<BaseDelayIntimidationSmiteChance>0.300000012</BaseDelayIntimidationSmiteChance>
+		<BaseDelayBeguilementChance>0.400000006</BaseDelayBeguilementChance>
+		<BaseBargainPersuasionChance>0.300000012</BaseBargainPersuasionChance>
+		<BaseBargainIntimidationSuccessChance>0.400000006</BaseBargainIntimidationSuccessChance>
+		<BaseBargainIntimidationSmiteChance>0.400000006</BaseBargainIntimidationSmiteChance>
+		<BaseBargainBeguilementChance>0.5</BaseBargainBeguilementChance>
+		<BaseRemedyPersuasionChance>0.300000012</BaseRemedyPersuasionChance>
+		<BaseRemedyIntimidationSuccessChance>0.400000006</BaseRemedyIntimidationSuccessChance>
+		<BaseRemedyIntimidationSmiteChance>0.400000006</BaseRemedyIntimidationSmiteChance>
+		<BaseRemedyBeguilementChance>0.5</BaseRemedyBeguilementChance>
+		<TinyUIRectSaved>True</TinyUIRectSaved>
+		<tinyUIRect_x>1865</tinyUIRect_x>
+		<tinyUIRect_y>100</tinyUIRect_y>
+		<tinyUIRect_width>50</tinyUIRect_width>
+		<tinyUIRect_height>50</tinyUIRect_height>
+	</ModSettings>
+</SettingsBlock>

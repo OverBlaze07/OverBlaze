@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CommonSense.Settings">
+		<separate_meals>False</separate_meals>
+		<fulfill_outdoors>False</fulfill_outdoors>
+		<drugs_use_potential_mood>False</drugs_use_potential_mood>
+		<prefer_spoiling_ingredients>False</prefer_spoiling_ingredients>
+		<prefer_spoiling_meals>False</prefer_spoiling_meals>
+		<put_back_to_inv>False</put_back_to_inv>
+	</ModSettings>
+</SettingsBlock>

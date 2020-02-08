@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.RimThemes.Settings">
+		<curTheme>-1§Cyberpunk</curTheme>
+		<disableParticle>True</disableParticle>
+		<lastVersionInfo>RimThemes 2019 R3</lastVersionInfo>
+	</ModSettings>
+</SettingsBlock>

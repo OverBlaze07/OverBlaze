@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimShips.RimshipsModSettings">
+		<beachMultiplier>0</beachMultiplier>
+		<matchWaterTerrain>False</matchWaterTerrain>
+		<fishingMultiplier>1</fishingMultiplier>
+	</ModSettings>
+</SettingsBlock>

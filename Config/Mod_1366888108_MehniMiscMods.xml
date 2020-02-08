@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Mehni.Misc.Modifications.MeMiMoSettings">
+		<variableRaidRetreat>True</variableRaidRetreat>
+		<retreatDefeatRange>0.3317536~0.6635071</retreatDefeatRange>
+		<humanFilthRate>5</humanFilthRate>
+		<displayRangedDPS>False</displayRangedDPS>
+	</ModSettings>
+</SettingsBlock>

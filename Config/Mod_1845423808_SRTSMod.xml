@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SRTS.SRTS_ModSettings">
+		<defProperties>
+			<keys>
+				<li>SRTSSuperpod</li>
+				<li>SRTSSkip</li>
+				<li>SRTF</li>
+				<li>SRTSMkII</li>
+				<li>SRTSMkIII</li>
+				<li>SRTSMkIV</li>
+			</keys>
+			<values>
+				<li>
+					<defaultValues>True</defaultValues>
+					<massCapacity>240</massCapacity>
+					<minPassengers>1</minPassengers>
+					<maxPassengers>1</maxPassengers>
+					<flightSpeed>2</flightSpeed>
+					<researchPoints>4800</researchPoints>
+					<fuelPerTile>2.5</fuelPerTile>
+					<customResearchDefNames />
+					<radiusDrop>1</radiusDrop>
+					<bombingSpeed>1</bombingSpeed>
+				</li>
+				<li>
+					<defaultValues>True</defaultValues>
+					<massCapacity>420</massCapacity>
+					<minPassengers>1</minPassengers>
+					<maxPassengers>2</maxPassengers>
+					<flightSpeed>8</flightSpeed>
+					<researchPoints>6200</researchPoints>
+					<fuelPerTile>1.75</fuelPerTile>
+					<customResearchDefNames />
+					<bombingCapable>True</bombingCapable>
+					<numberBombs>5</numberBombs>
+					<radiusDrop>4</radiusDrop>
+					<bombingSpeed>1</bombingSpeed>
+				</li>
+				<li>
+					<defaultValues>True</defaultValues>
+					<massCapacity>5000</massCapacity>
+					<minPassengers>1</minPassengers>
+					<maxPassengers>3</maxPassengers>
+					<flightSpeed>2</flightSpeed>
+					<researchPoints>7200</researchPoints>
+					<fuelPerTile>4.25</fuelPerTile>
+					<customResearchDefNames />
+					<radiusDrop>1</radiusDrop>
+					<bombingSpeed>1</bombingSpeed>
+				</li>
+				<li>
+					<defaultValues>True</defaultValues>
+					<massCapacity>1600</massCapacity>
+					<minPassengers>1</minPassengers>
+					<maxPassengers>7</maxPassengers>
+					<flightSpeed>11</flightSpeed>
+					<researchPoints>12000</researchPoints>
+					<fuelPerTile>1.75</fuelPerTile>
+					<customResearchDefNames />
+					<bombingCapable>True</bombingCapable>
+					<numberBombs>12</numberBombs>
+					<radiusDrop>6</radiusDrop>
+					<bombingSpeed>1</bombingSpeed>
+				</li>
+				<li>
+					<defaultValues>True</defaultValues>
+					<massCapacity>10000</massCapacity>
+					<minPassengers>2</minPassengers>
+					<maxPassengers>24</maxPassengers>
+					<flightSpeed>20</flightSpeed>
+					<researchPoints>24000</researchPoints>
+					<fuelPerTile>1.25</fuelPerTile>
+					<customResearchDefNames />
+					<bombingCapable>True</bombingCapable>
+					<numberBombs>20</numberBombs>
+					<radiusDrop>8</radiusDrop>
+					<bombingSpeed>1</bombingSpeed>
+				</li>
+				<li>
+					<defaultValues>True</defaultValues>
+					<massCapacity>100000</massCapacity>
+					<minPassengers>2</minPassengers>
+					<maxPassengers>999</maxPassengers>
+					<flightSpeed>30</flightSpeed>
+					<researchPoints>36000</researchPoints>
+					<fuelPerTile>1</fuelPerTile>
+					<customResearchDefNames />
+					<bombingCapable>True</bombingCapable>
+					<numberBombs>32</numberBombs>
+					<radiusDrop>10</radiusDrop>
+					<bombingSpeed>1</bombingSpeed>
+				</li>
+			</values>
+		</defProperties>
+	</ModSettings>
+</SettingsBlock>

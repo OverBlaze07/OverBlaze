@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RealRuins.RealRuins_ModSettings">
+		<caravanReformType>2</caravanReformType>
+		<startWithoutRuins>True</startWithoutRuins>
+		<defaultScatterOptions>
+			<densityMultiplier>7.5</densityMultiplier>
+			<minRadius>32</minRadius>
+			<maxRadius>64</maxRadius>
+			<scavengingMultiplier>0</scavengingMultiplier>
+			<decorationChance>0</decorationChance>
+			<trapChance>0.002781915</trapChance>
+		</defaultScatterOptions>
+	</ModSettings>
+</SettingsBlock>

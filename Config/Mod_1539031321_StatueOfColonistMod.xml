@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="StatueOfColonist.StatueOfColonistSettings">
+		<autoName>True</autoName>
+		<showClothForDisplay>True</showClothForDisplay>
+		<clothIconSize>64</clothIconSize>
+		<scaleOfCloth>
+			<keys>
+				<li>Male</li>
+				<li>Female</li>
+				<li>Thin</li>
+				<li>Hulk</li>
+				<li>Fat</li>
+			</keys>
+			<values>
+				<li>1.25</li>
+				<li>1.5</li>
+				<li>1.75</li>
+				<li>1</li>
+				<li>1</li>
+			</values>
+		</scaleOfCloth>
+		<possibilityOfStatueFromPreset>0</possibilityOfStatueFromPreset>
+		<offsetStatueBody>
+			<li>0</li>
+			<li>0</li>
+			<li>-0.100000001</li>
+			<li>0</li>
+			<li>0.0500000007</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>-0.100000001</li>
+			<li>0.200000003</li>
+			<li>0.300000012</li>
+			<li>0.300000012</li>
+			<li>0.0500000007</li>
+			<li>0.0500000007</li>
+			<li>0</li>
+		</offsetStatueBody>
+	</ModSettings>
+</SettingsBlock>

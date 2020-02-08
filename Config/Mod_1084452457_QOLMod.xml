@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RIMMSqol.QOLModSettings">
+		<ea_ForbiddenPatchNamespaces />
+		<settings />
+		<traitCosts />
+		<recordFactors />
+		<powerBuildings />
+		<mainButtons />
+		<architectButtons />
+		<recipes />
+		<floorsAndTerrain />
+		<thoughts />
+		<apparel />
+		<weapons />
+		<projectiles />
+		<plants />
+		<material />
+		<food />
+		<resourceRock />
+		<buildings />
+		<hediffs />
+		<pawns />
+		<traits />
+		<researchProjects />
+		<researchTabs />
+		<backstories />
+	</ModSettings>
+</SettingsBlock>

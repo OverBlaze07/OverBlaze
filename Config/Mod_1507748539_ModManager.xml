@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ModManager.ModManagerSettings">
+		<ModAttributes>
+			<li>
+				<Identifier>1911910049</Identifier>
+				<Color>RGBA(0.693, 0.270, 0.270, 1.000)</Color>
+			</li>
+			<li>
+				<Identifier>1584328477</Identifier>
+				<Color>RGBA(0.068, 0.132, 0.703, 1.000)</Color>
+			</li>
+			<li>
+				<Identifier>1817691403</Identifier>
+				<Color>RGBA(0.463, 0.029, 0.029, 1.000)</Color>
+			</li>
+			<li>
+				<Identifier>1386412863</Identifier>
+				<Color>RGBA(0.290, 0.050, 0.050, 1.000)</Color>
+			</li>
+		</ModAttributes>
+		<ButtonAttributes />
+	</ModSettings>
+</SettingsBlock>

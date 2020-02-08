@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="OgreStack.PersistentData.OgreStackSettings">
+		<SmallVolumeResource_Value>5000</SmallVolumeResource_Value>
+		<Resource_Value>500</Resource_Value>
+		<RawFoodMeat_Value>500</RawFoodMeat_Value>
+		<RawFoodPlant_Value>500</RawFoodPlant_Value>
+		<PlantMatter_Value>500</PlantMatter_Value>
+		<Meal_Value>75</Meal_Value>
+		<FoodForAnimal_Value>500</FoodForAnimal_Value>
+		<Food_Value>500</Food_Value>
+		<Item_Value>75</Item_Value>
+		<BodyPartOrImplant_Value>75</BodyPartOrImplant_Value>
+		<Leather_Value>500</Leather_Value>
+		<Textile_Value>500</Textile_Value>
+		<StoneBlock_Value>500</StoneBlock_Value>
+		<Manufactured_Value>500</Manufactured_Value>
+		<Drug_Value>500</Drug_Value>
+		<Artifact_Value>75</Artifact_Value>
+		<Other_Mode>Scalar</Other_Mode>
+		<Other_Value>5</Other_Value>
+	</ModSettings>
+</SettingsBlock>

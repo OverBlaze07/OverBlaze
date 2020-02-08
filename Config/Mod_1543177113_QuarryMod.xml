@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Quarry.QuarrySettings">
+		<QRY_quarryMaxHealth>10100</QRY_quarryMaxHealth>
+		<QRY_junkChance>80</QRY_junkChance>
+		<QRY_chunkChance>30</QRY_chunkChance>
+		<QRY_OreDictionary>
+			<li>
+				<thingDef>Steel</thingDef>
+				<count>65</count>
+			</li>
+			<li>
+				<thingDef>Silver</thingDef>
+				<count>50</count>
+			</li>
+			<li>
+				<thingDef>Gold</thingDef>
+				<count>10</count>
+			</li>
+			<li>
+				<thingDef>Uranium</thingDef>
+				<count>10</count>
+			</li>
+			<li>
+				<thingDef>Plasteel</thingDef>
+				<count>10</count>
+			</li>
+			<li>
+				<thingDef>Jade</thingDef>
+				<count>10</count>
+			</li>
+			<li>
+				<thingDef>ComponentIndustrial</thingDef>
+				<count>2</count>
+			</li>
+			<li>
+				<thingDef>ComponentIndustrial</thingDef>
+				<count>5</count>
+			</li>
+		</QRY_OreDictionary>
+	</ModSettings>
+</SettingsBlock>

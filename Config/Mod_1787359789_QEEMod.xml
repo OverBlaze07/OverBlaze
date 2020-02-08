@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="QEthics.QEESettings">
+		<maintRateFloat>1</maintRateFloat>
+		<organGrowthRateFloat>1</organGrowthRateFloat>
+		<cloneGrowthRateFloat>1</cloneGrowthRateFloat>
+		<organTotalResourcesFloat>1</organTotalResourcesFloat>
+		<cloneTotalResourcesFloat>1</cloneTotalResourcesFloat>
+		<maintWorkGiverThresholdFloat>0.400000006</maintWorkGiverThresholdFloat>
+	</ModSettings>
+</SettingsBlock>
