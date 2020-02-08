@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+	<operations>
+	  <li Class="PatchOperationFindMod">
+			
+		<mods><li>Sparkling Worlds - CE Patch [1.0] - Combat Extendend Compatibility</li></mods>
+			
+		<match Class="PatchOperationSequence">
+		<operations>
+		
+			<li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName="Bullet_BulletstormSW"]/projectile/armorPenetrationBase</xpath>
+			<value>
+				  <armorPenetrationSharp>10</armorPenetrationSharp>
+				  <armorPenetrationBlunt>9.5</armorPenetrationBlunt>
+			</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName="Bullet_GaussrifleSW"]/projectile/armorPenetrationBase</xpath>
+			<value>
+				  <armorPenetrationSharp>23</armorPenetrationSharp>
+				  <armorPenetrationBlunt>85</armorPenetrationBlunt>
+			</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName="Bullet_PlasmaGunSW"]/projectile/armorPenetrationBase</xpath>
+			<value>
+				  <armorPenetrationSharp>40</armorPenetrationSharp>
+				  <armorPenetrationBlunt>300</armorPenetrationBlunt>
+			</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName="Bullet_RailgunSW"]/projectile/armorPenetrationBase</xpath>
+			<value>
+				  <armorPenetrationSharp>35</armorPenetrationSharp>
+				  <armorPenetrationBlunt>200</armorPenetrationBlunt>
+			</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName="Bullet_PainGunSW"]/projectile/armorPenetrationBase</xpath>
+			<value>
+				  <armorPenetrationSharp>15</armorPenetrationSharp>
+				  <armorPenetrationBlunt>30</armorPenetrationBlunt>
+			</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName="Gun_GaussrifleSW" or
+				defName="Gun_RailgunSW" or
+				defName="Gun_BulletstormSW" or
+				defName="Gun_PainGunSW" or
+				defName="Gun_PlasmaGunSW" or
+				defName="EMPGrenadeLauncherSW"
+				]/tools</xpath>
+				<value>
+					<tools>
+						<li Class="CombatExtended.ToolCE">
+						<label>stock</label>
+						<capacities>
+						<li>Blunt</li>
+						</capacities>
+						<power>8</power>
+						<cooldownTime>1.55</cooldownTime>
+						<chanceFactor>1.5</chanceFactor>
+						<armorPenetrationBlunt>2.755</armorPenetrationBlunt>
+						<linkedBodyPartsGroup>Stock</linkedBodyPartsGroup>
+						</li>
+						<li Class="CombatExtended.ToolCE">
+							<label>barrel</label>
+							<capacities>
+							<li>Blunt</li>
+							</capacities>
+							<power>5</power>
+							<cooldownTime>2.02</cooldownTime>
+							<armorPenetrationBlunt>1.630</armorPenetrationBlunt>
+							<linkedBodyPartsGroup>Barrel</linkedBodyPartsGroup>
+						</li>
+						<li Class="CombatExtended.ToolCE">
+						<label>muzzle</label>
+							<capacities>
+							<li>Poke</li>
+							</capacities>
+							<power>8</power>
+							<cooldownTime>1.55</cooldownTime>
+							<armorPenetrationBlunt>2.755</armorPenetrationBlunt>
+							<linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
+						</li>
+					</tools>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName="BurnStickSW"]/tools</xpath>
+				<value>
+					<tools>
+						<li Class="CombatExtended.ToolCE">
+							<label>handle</label>
+							<capacities>
+								<li>Blunt</li>
+								<li>Poke</li>
+							</capacities>
+							<power>8</power>
+							<cooldownTime>1.8</cooldownTime>
+							<armorPenetrationBlunt>9.5</armorPenetrationBlunt>
+						</li>
+						<li Class="CombatExtended.ToolCE">
+							<label>head</label>
+							<capacities>
+								<li>BurnSW</li>
+							</capacities>
+							<power>16</power>
+							<cooldownTime>1.8</cooldownTime>
+							<armorPenetrationBlunt>9.5</armorPenetrationBlunt>
+						</li>
+					</tools>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName="BurnStickSW"]/tools</xpath>
+				<value>
+					<tools>
+						<li Class="CombatExtended.ToolCE">
+							<label>handle</label>
+							<capacities>
+								<li>Blunt</li>
+								<li>Poke</li>
+							</capacities>
+							<power>8</power>
+							<cooldownTime>1.8</cooldownTime>
+							<armorPenetrationBlunt>9.5</armorPenetrationBlunt>
+						</li>
+						<li Class="CombatExtended.ToolCE">
+							<label>head</label>
+							<capacities>
+								<li>SystemShockSW</li>
+							</capacities>
+							<power>15</power>
+							<cooldownTime>1.8</cooldownTime>
+							<armorPenetrationBlunt>9.5</armorPenetrationBlunt>
+						</li>
+					</tools>
+				</value>
+			</li>
+		</operations>
+		</match>	
+	  </li>
+	</operations>	
+  </Operation>
+</Patch>

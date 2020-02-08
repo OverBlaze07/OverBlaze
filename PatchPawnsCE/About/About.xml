@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>PatchPawnsCE</name>
+	<author>Tostov</author>
+	<supportedVersions>
+	  <li>1.0</li>
+	</supportedVersions>
+	<description>Pawn editing patch to add compat (i.e. ammo really) for CE pawns</description>
+</ModMetaData>
